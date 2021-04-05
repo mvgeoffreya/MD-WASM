@@ -1,4 +1,4 @@
-struct Parser {
+ struct Parser {
     pos: usize,
     input: String,
 }
